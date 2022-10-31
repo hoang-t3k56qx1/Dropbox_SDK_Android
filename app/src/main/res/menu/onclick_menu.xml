@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/copy"
+        android:title="Copy">
+    </item>
+
+    <item
+        android:id="@+id/move"
+        android:title="Move">
+    </item>
+
+    <item
+        android:id="@+id/paste"
+        android:title="Paste">
+    </item>
+
+    <item
+        android:id="@+id/delete"
+        android:title="Delete">
+    </item>
+
+    <item
+        android:id="@+id/properties"
+        android:title="Properties">
+    </item>
+
+</menu>
